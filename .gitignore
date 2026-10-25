@@ -1,0 +1,8 @@
+node_modules/
+.env
+temp/
+logs/
+*.exe
+*.class
+dist/
+.DS_Store
